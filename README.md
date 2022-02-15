@@ -10,7 +10,7 @@ Release Node
 Installation
 ----------------
 
-- Download the workflow [directly](https://github.com/kongwu-/alfred2-hash/raw/master/Hash.alfredworkflow) or from [Packal](http://www.packal.org/workflow/hash).
+- Download the workflow [directly](https://github.com/kongwu-/alfred2-hash/raw/master/Hash.alfredworkflow) .
 - Double click the downloaded "Hash.alfredworkflow" file to install.
 - `brew install php`
 
