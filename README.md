@@ -1,4 +1,4 @@
-Hash for Alfred 2
+Hash for Alfred 4+
 ============
 
 A simple Alfred 2 hash workflow's.
