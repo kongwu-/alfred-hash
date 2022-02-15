@@ -1,7 +1,7 @@
 Hash for Alfred 4+
 ============
 
-A simple Alfred 2 hash workflow's.
+A simple Alfred 4 hash workflow's.
 
 Release Node
 ----------------
